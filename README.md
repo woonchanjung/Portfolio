@@ -1,57 +1,70 @@
-# DEVELOPER PORTFOLIO
+# Getting Started with Create React App
 
-A portfolio website template for campers
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![jane-doe](jane-shot.png)
+## Available Scripts
 
-## Author
+In the project directory, you can run:
 
-[@koladechris](https://www.twitter.com/koladechris)
+### `yarn start`
 
-## Github repo
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This is the [link](https://github.com/Ksound22/developer-portfolio) to the Github repo of the project
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## Sample Website
+### `yarn test`
 
-A live demo is already available via this [link](https://eager-williams-af0d00.netlify.app/?)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Tech Stack
+### `yarn build`
 
-**Client:** HTML, CSS, Vanilla JavaSCript
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Tools Used
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Below are are list of tools used, and the precise things they were used for:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
-- [Drawkit](https://www.drawkit.io/) for Jane Doe illustration
-- [Icon8](https://icons8.com/) for animated icons and skills icons
-- [Animate CSS](https://animate.style/) for Jane Doe's bio text animation
-- [Formspree](https://formspree.io/) for contact form submision and straight delivery to Gmail
+### `yarn eject`
 
-## Folder Structure
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Customization Guide
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-The various sections in the HTML and CSS are well commented, so feel free to change whatever doesn't suit you need.
+## Learn More
 
-The JavaScript functions are commented too, so you will know what the functions and selections do.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-I used Ion Icons and Icons8 for the icons, but feel free to use fontawesome or any other icon library you want.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-For the form submission, formspree was used. You can get a hands-on tutorial on how to use formspree by watching this [YouTube video](https://formspree.io/). Submissions will be delivered straignt into the specified Gmail account.
+### Code Splitting
 
-In addition to formspree, you can also use Netlify form submission in case you deploy there. Brad Traversy has a [video tutorial](https://www.youtube.com/watch?v=6ElQ689HRcY) on how to do it.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-If you encounter problems customizing, reach out to me by sending me a DM on my [Twitter](https://www.twitter.com/koladechris).
+### Analyzing the Bundle Size
 
-## Acknowledgements
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
