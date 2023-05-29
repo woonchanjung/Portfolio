@@ -40,7 +40,7 @@ export default function Contact() {
             src="https://www.google.com/maps/embed/v1/place?q=4295+Outer+Traffic+Cir+long+beach&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-6">
+            <div className="lg:w-1/2 px-6">y
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
