@@ -6,14 +6,14 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Woonchan Jung. 
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            Hi, I'm Woonchan Jung.
+            <br />
+            <br className="hidden lg:inline-block" />I am a believer in teamwork
+            and continous growth and learning.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            “Tolerance isn’t about not having beliefs. It’s about how your
+            beliefs lead you to treat people who disagree with you.” - Timothy Keller
           </p>
           <div className="flex justify-center">
             <a
