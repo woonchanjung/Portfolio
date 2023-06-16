@@ -50,4 +50,6 @@ export const skills = [
   "Node",
   "GraphQL",
   "Material UI",
+  "Python",
+  "HTML"
 ];
