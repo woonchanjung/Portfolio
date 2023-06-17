@@ -51,5 +51,7 @@ export const skills = [
   "GraphQL",
   "Material UI",
   "Python",
-  "HTML"
+  "HTML",
+  "CSS",
+  "Git"
 ];
