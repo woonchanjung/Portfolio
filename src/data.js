@@ -1,15 +1,15 @@
 export const projects = [
   {
     title: "L'Art du Style",
-    subtitle: "MERN Stack",
+    subtitle: "Python, Django, PostgreSQL, Tailwind, Heroku",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed L’Art du Style, a Python and Django-based application aimed at empowering individuals to refine their personal style by organizing and seamlessly matching their wardrobe.",
     image: "./project-1.gif",
     link: "https://l-art-du-style.herokuapp.com/",
   },
   {
     title: "FindResGo",
-    subtitle: "React and Python",
+    subtitle: "MERN stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS, Heroku",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
