@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://l-art-du-style.herokuapp.com/",
   },
   {
     title: "FindResGo",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://findresgo.herokuapp.com/",
   },
   {
     title: "PokeMarket",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://pokemarket.herokuapp.com/pokemon",
   },
   {
     title: "JavaScript Quiz Game",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://ryanqle.github.io/SimonSays/",
   },
 ];
 
