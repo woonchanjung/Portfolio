@@ -52,6 +52,4 @@ export const skills = [
   "Material UI",
   "Python",
   "HTML",
-  "CSS",
-  "Git"
 ];
