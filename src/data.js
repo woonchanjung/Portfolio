@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "PokeMarket",
-    subtitle: "React and Firebase",
+    subtitle: "MEN stack (MongoDB, Express.js, Node.js)",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
