@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Projects to practice my skills and learn new technologies. Most of them were to help with the needs of my friends and family.
+            Projects to practice my skills and learn new technologies. Most of them were to help with the needs of my friends and families. Many more projects to come!
           </p>
         </div>
         <p className="text-white text-2xl mb-4">Coming Soon!</p>
