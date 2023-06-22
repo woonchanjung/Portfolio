@@ -11,7 +11,7 @@ export const projects = [
     title: "FindResGo",
     subtitle: "MERN stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS, Heroku",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-2.gif",
     link: "https://findresgo.herokuapp.com/",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "JavaScript Quiz Game",
     subtitle: "HTML, CSS, JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "",
     image: "./project-4.gif",
     link: "https://ryanqle.github.io/SimonSays/",
   },
