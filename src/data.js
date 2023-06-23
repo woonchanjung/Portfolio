@@ -45,6 +45,12 @@ export const testimonials = [
         name: "Jesse Hicks",
         company: "Zoozle",
     },
+    {
+        quote: "",
+        image: "https://randomuser.me/api/portraits/men/1.jpg",
+        name: "Jesse Hicks",
+        company: "Zoozle",
+    },
 ];
 
 export const skills = [
