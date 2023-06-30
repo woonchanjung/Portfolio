@@ -72,7 +72,7 @@ export default function Contact() {
           action=""
         >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
             Please let me know if you have any questions or need anything and I
