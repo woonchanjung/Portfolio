@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            These are some of the skills that I have learned and used in my projects. I am always looking to learn new technologies and improve my skills.
+            These are some of the skills that I have learned and used in my projects. I am always looking to learn new technologies and improve my skills. I am mainly focusing in front-end with React
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
